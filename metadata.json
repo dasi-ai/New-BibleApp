@@ -1,0 +1,6 @@
+{
+  "name": "Bible App",
+  "description": "Your AI-powered guide to the Scriptures. Get daily verses, search by keyword, take Bible quizzes, and list all books of the Bible using public domain translations (KJV and WEB).",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
